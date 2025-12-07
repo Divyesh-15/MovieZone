@@ -162,7 +162,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Divyesh**  
 Full Stack Developer | PHP Enthusiast | MCA Student  
-[![GitHub](https://img.shields.io/badge/GitHub-@Divyesh-15-181717?logo=github)](https://github.com/Divyesh-15)  
+[![GitHub](https://img.shields.io/badge/GitHub-@Divyesh-15?logo=github)](https://github.com/Divyesh-15)  
 🌐 [moviezone4you.free.nf](https://moviezone4you.free.nf)
 
 ---
