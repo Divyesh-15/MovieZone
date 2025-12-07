@@ -28,21 +28,21 @@
 
 > _Add your screenshots here for a more engaging README!_
 
-| Home Page | Movie Details | Admin Panel |
-|-----------|--------------|-------------|
+| Home Page                            | Movie Details                              | Admin Panel                            |
+| ------------------------------------ | ------------------------------------------ | -------------------------------------- |
 | ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) | ![Admin](assets/screenshots/admin.png) |
 
 ---
 
 ## 🛠️ Tech Stack
- 
-| Layer        | Technology Used                        |
-|--------------|----------------------------------------|
-| **Frontend** | HTML5, CSS3, Bootstrap, JavaScript     |
-| **Backend**  | PHP (Core PHP)                         |
-| **Database** | MySQL                                  |
-| **Hosting**  | InfinityFree (free)                    |
-| **Admin**    | PHP-based dashboard                    |
+
+| Layer        | Technology Used                    |
+| ------------ | ---------------------------------- |
+| **Frontend** | HTML5, CSS3, Bootstrap, JavaScript |
+| **Backend**  | PHP (Core PHP)                     |
+| **Database** | MySQL                              |
+| **Hosting**  | InfinityFree (free)                |
+| **Admin**    | PHP-based dashboard                |
 
 ---
 
@@ -53,7 +53,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Dss155/MovieZone.git
+git clone https://github.com/Divyesh-15/MovieZone.git
 cd MovieZone
 ```
 
@@ -83,12 +83,13 @@ $dbname = 'moviezone';
 ## 🔐 Admin Panel
 
 - **URL:** `http://localhost/MovieZone/admin/`
-- **Default Login:**  
-  - Username: `admin`  
+- **Default Login:**
+  - Username: `admin`
   - Password: `admin123`  
-  _(Change after first login!)_
+    _(Change after first login!)_
 
 **Admin Features:**
+
 - Upload, edit, or delete movies
 - Manage download links & categories
 - View and organize movie listings
@@ -132,15 +133,15 @@ If you have ideas for new features, improvements, or bug fixes:
 4. **Submit a Pull Request** with a clear description of your changes.
 5. You can also open an **Issue** if you want to discuss your idea first.
 
-*Your suggestions and code will help MovieZone grow!*
+_Your suggestions and code will help MovieZone grow!_
 
 ---
 
 ## 📬 Contact & Support
 
 For feedback, suggestions, or collaboration:  
-📧 [Contact via GitHub](https://github.com/Dss155)  
-Or simply open an [Issue](https://github.com/Dss155/MovieZone/issues) or [Pull Request](https://github.com/Dss155/MovieZone/pulls).
+📧 [Contact via GitHub](https://github.com/Divyesh-15)  
+Or simply open an [Issue](https://github.com/Divyesh-15/MovieZone/issues) or [Pull Request](https://github.com/Divyesh-15/MovieZone/pulls).
 
 ---
 
@@ -152,7 +153,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- [InfinityFree](https://infinityfree.net/) for free PHP hosting  
+- [InfinityFree](https://infinityfree.net/) for free PHP hosting
 - Built for educational & portfolio purposes
 
 ---
@@ -161,7 +162,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Divyesh**  
 Full Stack Developer | PHP Enthusiast | MCA Student  
-[![GitHub](https://img.shields.io/badge/GitHub-@Dss155-181717?logo=github)](https://github.com/Dss155)  
+[![GitHub](https://img.shields.io/badge/GitHub-@Divyesh-15-181717?logo=github)](https://github.com/Divyesh-15)  
 🌐 [moviezone4you.free.nf](https://moviezone4you.free.nf)
 
 ---
@@ -182,6 +183,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For feedback, suggestions, or collaboration:  
-📧 [Contact via GitHub](https://github.com/Dss155)
+📧 [Contact via GitHub](https://github.com/Divyesh-15)
 
 ---
